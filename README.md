@@ -6,8 +6,8 @@
     <img src="https://media.tenor.com/8iW51MQTta4AAAAi/bits-8bits.gif" width="60" />
     <img src="https://media.tenor.com/8iW51MQTta4AAAAi/bits-8bits.gif" width="60" />
     <img src="https://media.tenor.com/8iW51MQTta4AAAAi/bits-8bits.gif" width="60" />
-    <img src="https://media.tenor.com/8iW51MQTta4AAAAi/bits-8bits.gif" width="60" />
-    <img src="https://media.tenor.com/8iW51MQTta4AAAAi/bits-8bits.gif" width="60" />
+    <img
+src="https://media.tenor.com/8iW51MQTta4AAAAi/bits-8bits.gif" width="60" />
   </p>
   
   <!-- Typing SVG más simple -->
