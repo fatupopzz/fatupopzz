@@ -10,10 +10,7 @@
 src="https://media.tenor.com/8iW51MQTta4AAAAi/bits-8bits.gif" width="60" />
   </p>
   
-  <!-- Typing SVG más simple -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Desarrollo+frontend;Creando+interfaces+nostálgicas" alt="Typing SVG" />
-  
-  <br>
+
   
   <!-- Tarjetas de estadísticas simplificadas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatupopzz&show_icons=true&bg_color=0d1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&border_color=4F96FF&border_radius=15&rank_icon=github&hide_border=false" />
